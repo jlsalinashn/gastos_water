@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_pagos_water_pagos_water,pagos_water.pagos_water,model_pagos_water_pagos_water,base.group_user,1,1,1,1
